@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Market-wide restaurant data for Sterling Heights in the Great Lakes region with a population of over 134k. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in Sterling Heights, Michigan, US",
+  "export_job_id": "49c6a9d9-71d9-4dc0-af79-afe096173bf5",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 262955,
+  "location_name": "Sterling Heights",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-sterling-heights-michigan-us-sample-262955",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/262955/beamstation_262955_restaurants-us-mi_SAMPLE_DIST.csv",
+  "sample_pct": 9.87,
+  "sample_records": 44,
+  "sample_sha256": "f698e8affadff3f91a139bccf050608911b464a92a5bc66880a692662e82f3b8",
+  "sample_size_bytes": 180097,
+  "total_records": 446,
+  "updated_at": "2026-04-09T10:24:29.196171+00:00"
+}
