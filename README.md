@@ -1,6 +1,6 @@
 # All Restaurants in Sterling Heights, Michigan, US
 
-> Free BeamStation sample export with 33 rows and masked direct-contact fields.
+> Free BeamStation sample export with 45 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `262955` |
 | Location | Sterling Heights |
 | Category | Restaurants |
-| Full dataset size | 339 records |
-| Free sample size | 33 records (9.73%) |
-| Last export | 2026-04-23T10:12:20.846091+00:00 |
+| Full dataset size | 450 records |
+| Free sample size | 45 records (10.0%) |
+| Last export | 2026-04-30T10:21:23.051812+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-sterling-heights-michigan-us-sample-262955/releases/download/sample-latest/beamstation_262955_restaurants-us-mi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
