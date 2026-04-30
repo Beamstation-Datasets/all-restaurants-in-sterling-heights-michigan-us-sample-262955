@@ -1,12 +1,12 @@
 {
-  "export_job_id": "044ead0f-e995-4000-b19a-50ee3e37cfef",
+  "export_job_id": "208a3e1e-8d9e-4106-8755-7b310c57e1b1",
   "id_short": 262955,
-  "published_at": "2026-04-23T19:03:19Z",
+  "published_at": "2026-04-30T19:07:29Z",
   "repo_name": "all-restaurants-in-sterling-heights-michigan-us-sample-262955",
   "sample_asset_name": "beamstation_262955_restaurants-us-mi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/262955/beamstation_262955_restaurants-us-mi_SAMPLE_DIST.csv",
-  "sample_records": 33,
-  "sample_sha256": "3467210a9c26dd7196bcf0baaa1933e90cc48cbfaa130729635bfb56aad7cdc9",
-  "sample_size_bytes": 132718,
-  "total_records": 339
+  "sample_records": 45,
+  "sample_sha256": "e5a7a04d6a463572835862837644e0ddef9dff8fcc5cfa4f8e6c314c5217874a",
+  "sample_size_bytes": 165444,
+  "total_records": 450
 }
